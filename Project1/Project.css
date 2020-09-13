@@ -1,0 +1,24 @@
+h1{color:rgb(59,25,100); text-align:center;} 
+
+p1 {color:black; font-family: Bookman Old Style; font-size:15px;}
+
+body{background-color:lightgreen; border:7px blue double; padding:3px;}
+
+.container-1 {width:75%; display:flex;}
+
+.container-1 div {border:1px black solid; padding:1px; flex-direction: column;}
+
+.category1 ul {list-style:square;} .category1 li {font-weight: bold;} 
+
+a:hover{color:red;} a{text-decoration: none;}
+
+.category1 li{border-bottom:1px black dotted;}  
+
+.myform {padding:10px; } 
+
+.form-grp{padding:15px; display: block;} 
+
+.myform input {display:block; width:55%; font-size: 1.5em;} 
+.myform textarea {display:block;width:55%;} 
+
+.myform input[type="Submit"] {background-color: black; font-size:0.9em; width:12%; color:white;border:10px black solid;}
